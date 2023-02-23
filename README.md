@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<p align="left"> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/henriits/count.svg" />
 </p>
