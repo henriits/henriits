@@ -7,11 +7,8 @@ henriits/henriits is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![]
 
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/henriits/count.svg" />
 </p>
