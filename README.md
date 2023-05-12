@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 </p>
  
 <p align="center"> 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&hide=kvlang&theme=tokyonight)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&hide=kvlang&theme=tokyonight)
 
 </p>
