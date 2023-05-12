@@ -7,9 +7,4 @@
   <img src="https://profile-counter.glitch.me/henriits/count.svg" />
 </p>
  
-<a href="https://github.com/henriits/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henriits&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/henriits/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=henriits&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&layout=compact)](https://github.com/henriits/github-readme-stats)
