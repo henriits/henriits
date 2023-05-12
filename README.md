@@ -8,3 +8,4 @@
 </p>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&hide_progress=true)](https://github.com/henriits/github-readme-stats)
+[![Henris's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henriits)](https://github.com/henriits/github-readme-stats)
