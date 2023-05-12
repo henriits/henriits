@@ -14,4 +14,5 @@ You can click the Preview link to take a look at your changes.
 </p>
  
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=henriits&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/henriits)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&hide=javascript,css,scss,html&theme=tokyonight)
+
