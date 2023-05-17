@@ -5,15 +5,11 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/henriits/count.svg" />
-  
+</p>
 
 <a href="https://github.com/henriits/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&layout=compact&hide=kvlang&theme=dracula" />
 </a>
-
- ![](https://raw.githubusercontent.com/henriits/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/henriits/github-stats/master/generated/overview.svg#gh-light-mode-only)
- 
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
