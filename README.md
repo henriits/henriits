@@ -1,5 +1,5 @@
  - 👋 Hi, I’m Henri
-- 🌱 I’m currently learning Python programming and web development
+- 🌱 I’m currently learning Python programming and web development.
 
 
 <p align="center"> 
