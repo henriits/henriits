@@ -1,5 +1,4 @@
- - 👋 Hi, I’m Henri.
-- 🌱
+ - 👋 Hi, I’m Henri.  🌱
 
 
 <p align="center"> 
