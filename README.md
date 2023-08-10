@@ -9,7 +9,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&size_weight=0.5&count_weight=0.5&hide=kvlang&langs_count=10&layout=compact&theme=dracula)](https://github.com/henriits/github-readme-stats)
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucky-bruce&layout=compact&langs_count=16&theme=dracula"/>
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henriits&layout=compact&langs_count=16&theme=dracula"/>
 
 
 
