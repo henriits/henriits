@@ -21,3 +21,17 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=henriits&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/henriits/henriits/output/snake.svg" alt="Snake animation" />
+
+###
