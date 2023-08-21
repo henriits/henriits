@@ -44,10 +44,5 @@
   <img src="https://streak-stats.demolab.com?user=henriits&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-![Snake animation](https://github.com/{{henriits}}/{{henriits}}/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
+![snake gif](https://github.com/henriits/henriits/blob/output/github-contribution-grid-snake.gif)
 
