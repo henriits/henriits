@@ -1,22 +1,24 @@
- - 👋 Hi, I’m Henri.  🌱
+<div align="center">
+- 👋 Hi, I’m Henri.  🌱
+</div>
 
-
+<div align="center">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/henriits/count.svg" />
 </p>
+</div>
 
 
-
-
+<div align="center">
 <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henriits&size_weight=0.5&count_weight=0.5&hide=kvlang&langs_count=10&layout=compact&theme=dracula"/>
-
+</div>
 
 
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
@@ -47,6 +49,16 @@
 
 
 
-<img src="https://raw.githubusercontent.com/henriits/henriits/output/snake.svg" alt="Snake animation" />
+
+
+
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
