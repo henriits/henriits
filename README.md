@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&border=true&hide=kvlang"/>
+<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&border=true&hide=kvlang&hide_border=false&border_radius=5"/>
 </div>
 
 ###
