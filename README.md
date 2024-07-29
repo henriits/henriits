@@ -11,8 +11,8 @@
 
 
 <div align="center">
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henriits&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&theme=dracula&"/>
-<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&border=true"/>
+
+<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&border=true&hide=kvlang"/>
 </div>
 
 ###
