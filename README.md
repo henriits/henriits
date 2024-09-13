@@ -1,7 +1,7 @@
 
   # 💫 About Me:
   - 👋 Hi, I’m Henri.  
-  - 🌱 Im currently learning web development in Turning Collage, i chose React speciality. 
+  - 🌱 Im currently learning web development in Turing Collage. 
 
 
 
@@ -20,13 +20,9 @@
 
 
 <div align="center">
-  ## 🏆 GitHub Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=henriits&theme=radical&no-frame=false&no-bg=true&margin-w=4"  />
 </div>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=henriits&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <div align="center">
@@ -43,7 +39,6 @@
 
 
 <div align="center">
-  ### ✍️ Random Dev Quote
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  />
 </div>
 
