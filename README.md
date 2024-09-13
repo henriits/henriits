@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henriits&theme=onedark&no-frame=false&no-bg=false&margin-w=4"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=henriits&theme=dark&no-frame=false&no-bg=false&margin-w=4"  />
 </div>
 
 
@@ -36,6 +36,8 @@
   <img src="https://streak-stats.demolab.com?user=henriits&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
+<br>
 
 
 <div align="center">
