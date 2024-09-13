@@ -17,20 +17,20 @@
   <img src="https://profile-counter.glitch.me/henriits/count.svg" />
 </p>
 </div>
-
+<br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=henriits&theme=onedark&no-frame=false&no-bg=false&margin-w=4"  />
 </div>
 
 
-
+<br>
 <div align="center">
 
 <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&border=true&hide=kvlang&hide_border=false&border_radius=5"/>
 </div>
 
-
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=henriits&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
