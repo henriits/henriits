@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=henriits&theme=onedark&no-frame=false&no-bg=false&margin-w=4"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=henriits&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4"  />
 </div>
 
 
