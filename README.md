@@ -105,7 +105,8 @@
 
 </details>
 
-
+<details>
+  <summary><b>Github stats</b></summary>
 
 <div align="center">
 <p align="center"> 
@@ -114,6 +115,7 @@
 </p>
 </div>
 <br>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=henriits&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4"  />
@@ -134,11 +136,12 @@
 
 
 <br>
-
+</details>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"  />
 </div>
+
 
 
 
