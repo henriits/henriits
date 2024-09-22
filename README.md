@@ -1,5 +1,5 @@
 
-#####💫 About Me:
+##### 💫 About Me:
 
   - 👋 Hi, I’m Henri.  
   - 🌱 Im currently learning web development in Turing Collage. 
