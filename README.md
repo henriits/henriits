@@ -47,13 +47,13 @@
   <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/Kysely-000000?style=flat-square&logoColor=white" alt="Kysely" title="Kysely"/></code>
 </div>
 
-##### Github stats
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="height: 200px; display: flex; align-items: center;">
+<div align="center">
+  <div>
     <img src="https://streak-stats.demolab.com?user=henriits&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" style="object-fit: contain;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&border=true&hide=kvlang&hide_border=false&border_radius=5" height="200" alt="Top Languages" style="object-fit: contain;"/>
   </div>
 </div>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=henriits&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4"  />
