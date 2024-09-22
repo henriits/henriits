@@ -46,23 +46,23 @@
   <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chart.js&logoColor=white" alt="Chart.js" title="Chart.js"/></code>
   <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/Kysely-000000?style=flat-square&logoColor=white" alt="Kysely" title="Kysely"/></code>
 </div>
-
+<br>
 <div align="center">
   <div>
     <img src="https://streak-stats.demolab.com?user=henriits&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" style="object-fit: contain;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&border=true&hide=kvlang&hide_border=false&border_radius=5" height="200" alt="Top Languages" style="object-fit: contain;"/>
   </div>
 </div>
-
+<br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=henriits&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4"  />
 </div>
-
+<br>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"  />
 </div>
-
+<br>
 
 
 <div align="center">
