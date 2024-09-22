@@ -51,9 +51,6 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="height: 200px; display: flex; align-items: center;">
     <img src="https://streak-stats.demolab.com?user=henriits&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" style="object-fit: contain;"/>
-  </div>
-  
-  <div style=" display: flex; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriits&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&border=true&hide=kvlang&hide_border=false&border_radius=5" height="200" alt="Top Languages" style="object-fit: contain;"/>
   </div>
 </div>
