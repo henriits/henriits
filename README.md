@@ -13,7 +13,6 @@
 <details>
      <summary><b>Languages & Frameworks used</b></summary>
 <div>
- 
 <div>
   <!-- Languages -->
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/></code>
@@ -23,53 +22,54 @@
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" title="PowerShell"/></code>
-  
+
   <!-- Front-End Frameworks & Libraries -->
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" title="Next.js"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery"/></code>
-  <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+  <code><img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" title="Tailwind CSS"/></code>
   <code><img width="40" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" alt="Chakra UI" title="Chakra UI"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" title="Vite"/></code>
-  
+
   <!-- Back-End Frameworks & Libraries -->
-  <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" title="Django"/></code>
+  <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="Django"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" title="Flask"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" title="Express.js"/></code>
   <code><img width="40" src="https://avatars.githubusercontent.com/u/72302358?s=200&v=4" alt="tRPC" title="tRPC"/></code>
-  
+
   <!-- Tools & Platforms -->
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" title="GitHub Actions"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Pages" title="GitHub Pages"/></code>
-  <code><img width="40" src="https://insomnia.rest/images/insomnia-logo.svg" alt="Insomnia" title="Insomnia"/></code>
-  <code><img width="40" src="https://uploadcare.com/media/uploadcare-logo.svg" alt="Uploadcare" title="Uploadcare"/></code>
-  
+  <code><img width="40" src="https://www.vectorlogo.zone/logos/insomnia/insomnia-icon.svg" alt="Insomnia" title="Insomnia"/></code>
+  <code><img width="40" src="https://ucarecdn.com/e6c791d3-d1ac-4b3e-9823-8f3e72a1b682/-/resize/128x/" alt="Uploadcare" title="Uploadcare"/></code>
+
   <!-- Operating Systems -->
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" title="Ubuntu"/></code>
-  
+
   <!-- Databases -->
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite"/></code>
-  <code><img width="40" src="https://neon.tech/logo.svg" alt="Neon" title="Neon"/></code>
-  
+  <code><img width="40" src="https://neon.tech/_next/static/media/logo.854df717.svg" alt="Neon" title="Neon"/></code>
+
   <!-- APIs & WebSocket Libraries -->
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" title="Socket.io"/></code>
   <code><img width="40" src="https://avatars.githubusercontent.com/u/106430549?s=200&v=4" alt="Zod" title="Zod"/></code>
-  
+
   <!-- Cloud & Web Services -->
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS"/></code>
   <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" title="NGINX"/></code>
   <code><img width="40" src="https://avatars.githubusercontent.com/u/65314230?s=200&v=4" alt="Amazon Lightsail" title="Amazon Lightsail"/></code>
-  
+
   <!-- Visualization Libraries -->
   <code><img width="40" src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart.js" title="Chart.js"/></code>
-  
+
   <!-- ORM & Database Query Builders -->
   <code><img width="40" src="https://avatars.githubusercontent.com/u/76421656?s=200&v=4" alt="Kysely" title="Kysely"/></code>
 </div>
+
 
 
 
