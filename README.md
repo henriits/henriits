@@ -1,8 +1,8 @@
 
 ##### 💫 About Me:
 
-  - 👋 Hi, I’m Henri.  
-  - 🌱 Im currently learning web development in Turing Collage. 
+Hi, I’m Henri!
+I’m currently studying web development at Turing College, with a focus on React and modern technologies. I enjoy creating user-friendly web applications and am committed to continuous learning in tech.
 
 
 
