@@ -46,6 +46,14 @@ I’m currently studying web development at Turing College, with a focus on Reac
   <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chart.js&logoColor=white" alt="Chart.js" title="Chart.js"/></code>
   <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/Kysely-000000?style=flat-square&logoColor=white" alt="Kysely" title="Kysely"/></code>
   <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/Zod-2F80ED?style=flat-square&logo=zod&logoColor=white" alt="Zod" title="Zod"/></code>
+  <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" title="Vercel"/></code>
+  <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/Liveblocks-FF3D00?style=flat-square&logo=liveblocks&logoColor=white" alt="Liveblocks" title="Liveblocks"/>
+</code>
+  <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/React%20Flow-00D1FF?style=flat-square&logo=reactflow&logoColor=white" alt="React Flow" title="React Flow"/>
+</code>
+  <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/Zustand-007ACC?style=flat-square&logo=zustand&logoColor=white" alt="Zustand" title="Zustand"/>
+</code>
+  
   
 </div>
 <br>
