@@ -45,6 +45,8 @@ I’m currently studying web development at Turing College, with a focus on Reac
   <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/Amazon%20Lightsail-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" alt="Amazon Lightsail" title="Amazon Lightsail"/></code>
   <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chart.js&logoColor=white" alt="Chart.js" title="Chart.js"/></code>
   <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/Kysely-000000?style=flat-square&logoColor=white" alt="Kysely" title="Kysely"/></code>
+  <code><img style="border-radius: 5px;" src="https://img.shields.io/badge/Zod-2F80ED?style=flat-square&logo=zod&logoColor=white" alt="Zod" title="Zod"/></code>
+  
 </div>
 <br>
 <div align="center">
